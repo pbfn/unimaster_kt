@@ -1,0 +1,1 @@
+web: java -jar build/libs/unimaster_kt-0.0.1-SNAPSHOT.jar
